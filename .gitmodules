@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "cubeview"]
+	path = cubeview
+	url = https://github.com/cran/cubeview
+	shallow = true
+	registered = true
+[submodule "remote"]
+	path = remote
+	url = https://github.com/cran/remote
+	shallow = true
+	registered = true
